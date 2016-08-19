@@ -1,9 +1,5 @@
 ---
-datePublished: '2016-08-19T19:36:11.814Z'
-sourcePath: _posts/2016-08-18-things-no-one-will-tell-you-about-grad-school.md
-hasPage: false
-author: []
-via: {}
+id: afa05d3e-b834-44d7-b139-a0c89f0803f5
 metadata:
   title: Things no one will tell you about grad school
   datePublished: '2016-08-18T15:46:07.427Z'
@@ -16,16 +12,22 @@ metadata:
     of graduate school, especially if you’re a liberal arts student.
   via: {}
   sourcePath: _posts/2016-08-18-things-no-one-will-tell-you-about-grad-school.md
-dateModified: '2016-08-19T19:36:08.650Z'
+dateModified: '2016-08-18T17:35:12.306Z'
 title: Things no one will tell you about grad school
-id: afa05d3e-b834-44d7-b139-a0c89f0803f5
-publisher: {}
+datePublished: '2016-08-19T17:18:35.914Z'
+author: []
+sourcePath: _posts/2016-08-18-things-no-one-will-tell-you-about-grad-school.md
 description: >-
   Whether you’re thinking about pursuing an advanced degree or are already a
   student yourself, you will most likely encounter two versions of the nature of
   graduate school, especially if you’re a liberal arts student.
+publisher: {}
+via: {}
 starred: false
-_type: Blurb
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6edd01fc-44ad-4c19-9721-ad0ac3f1b400.gif)
