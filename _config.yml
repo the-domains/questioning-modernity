@@ -1,4 +1,4 @@
-typography_spectrum: 0.570917957695201
+typography_spectrum: 0.39577332755476835
 color:
   brandColors:
     - '#FCFFF5'
@@ -6,10 +6,10 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  brandStrength: 0.5415254258550704
-  lightness: 0.617550958879292
-  saturation: 0.36727209109812975
-  rhythmicContrast: 0.9361085111740977
-layout_spectrum: 0.7031878021080047
+  brandStrength: 0.4455214494366372
+  lightness: 0.9592477016019045
+  saturation: 0.6734701812351283
+  rhythmicContrast: 0.872938731653428
+layout_spectrum: 0.08645682884123351
 name: Questioning Modernity
 title: Questioning Modernity
