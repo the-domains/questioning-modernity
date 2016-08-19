@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T20:57:03.606Z'
+datePublished: '2016-08-19T20:58:12.038Z'
 sourcePath: _posts/2016-08-18-eric-questionmodern.md
-inFeed: true
+inFeed: false
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T20:57:02.982Z'
+dateModified: '2016-08-19T20:58:11.414Z'
 title: Eric @QuestionModern
 publisher:
   name: Periscope
@@ -18,7 +18,7 @@ description: >-
   the meaning of life, the universe, and everything.
 starred: false
 url: eric-questionmodern/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac9a7f1e-8e9f-4861-9524-9a99e23f2d6a.jpg)
