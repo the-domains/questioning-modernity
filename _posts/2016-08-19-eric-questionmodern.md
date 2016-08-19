@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-08-19T21:04:07.622Z'
+datePublished: '2016-08-19T21:05:56.837Z'
 sourcePath: _posts/2016-08-19-eric-questionmodern.md
+inFeed: true
 isBasedOnUrl: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T21:04:07.082Z'
-title: Eric @QuestionModern
+dateModified: '2016-08-19T21:05:56.215Z'
+title: Replay of Livestream
 app_links:
   - url: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
     type: ios
@@ -38,14 +39,14 @@ publisher:
   favicon: 'https://assets.periscope.tv/images/favicon.ico'
   domain: www.periscope.tv
 description: >-
-  Relax while thinking about the meaning of life, the universe, and
-  everything...
+  Replay of the livestream I did at Marshall Beach. Relax while thinking about
+  the meaning of life, the universe, and everything
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+# Replay of Livestream
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48a66406-19d0-40d0-9e30-65d0aedbf88a.jpg)
+
+Replay of the livestream I did at Marshall Beach. Relax while thinking about the meaning of life, the universe, and everything
