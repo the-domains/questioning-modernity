@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-19T20:12:17.195Z'
+datePublished: '2016-08-19T20:27:54.250Z'
 sourcePath: _posts/2016-08-18-weekend-in-the-mountains.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T20:12:16.484Z'
+dateModified: '2016-08-19T20:27:53.424Z'
 title: Weekend in The Mountains
 publisher: {}
-description: Toyoi Yuuta
+description: Gif Image by Toyoi Yuuta
 starred: false
 url: weekend-in-the-mountains/index.html
 _type: Article
 
 ---
-![Toyoi Yuuta](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b0a5f13-e8b4-422f-8f89-53f285c8f9d4.gif)
+![Gif Image by Toyoi Yuuta](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b0a5f13-e8b4-422f-8f89-53f285c8f9d4.gif)
 
 # Weekend in The Mountains
 
