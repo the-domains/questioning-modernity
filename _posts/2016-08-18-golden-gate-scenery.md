@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-08-19T20:14:22.189Z'
+datePublished: '2016-08-19T20:14:37.011Z'
 sourcePath: _posts/2016-08-18-golden-gate-scenery.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T16:43:08.861Z'
+dateModified: '2016-08-19T20:14:36.027Z'
 title: Golden Gate Scenery
 publisher:
   name: 500px
@@ -16,10 +18,9 @@ description: >-
   enjoyed reading the flurry of comments from people around the globe admiring
   the view and finding the sound of the waves relaxing. Check out the link in
   the tweet below for the replay.
-hasPage: true
 starred: false
 url: golden-gate-scenery/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Golden Gate Scenery
