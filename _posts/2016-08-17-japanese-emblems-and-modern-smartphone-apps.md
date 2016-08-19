@@ -1,13 +1,12 @@
 ---
-datePublished: '2016-08-19T20:32:34.465Z'
+datePublished: '2016-08-19T20:32:52.711Z'
 sourcePath: _posts/2016-08-17-japanese-emblems-and-modern-smartphone-apps.md
 inFeed: true
-isBasedOnUrl: 'https://youtu.be/5XY1rl1m_r4'
-hasPage: false
+hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T20:32:33.969Z'
+dateModified: '2016-08-19T20:32:52.251Z'
 title: Japanese Emblems & UI Design
 publisher: {}
 description: >-
@@ -19,7 +18,8 @@ description: >-
   flair in their everyday routine.
 inNav: false
 starred: false
-_type: MediaObject
+url: japanese-emblems-and-ui-design/index.html
+_type: Article
 
 ---
 # Japanese Emblems & UI Design
