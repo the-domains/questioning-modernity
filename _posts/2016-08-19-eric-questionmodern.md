@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T21:05:56.837Z'
+datePublished: '2016-08-19T21:08:02.650Z'
 sourcePath: _posts/2016-08-19-eric-questionmodern.md
 inFeed: true
 isBasedOnUrl: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
@@ -7,7 +7,7 @@ keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-19T21:05:56.215Z'
+dateModified: '2016-08-19T21:08:02.179Z'
 title: Replay of Livestream
 app_links:
   - url: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
@@ -34,7 +34,7 @@ app_links:
     name: Periscope
     id: tv.periscope.android
 publisher:
-  url: 'https://www.periscope.tv'
+  url: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
   name: Periscope
   favicon: 'https://assets.periscope.tv/images/favicon.ico'
   domain: www.periscope.tv
