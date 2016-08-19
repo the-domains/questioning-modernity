@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T20:10:52.423Z'
+datePublished: '2016-08-19T20:12:17.195Z'
 sourcePath: _posts/2016-08-18-weekend-in-the-mountains.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T20:10:51.864Z'
+dateModified: '2016-08-19T20:12:16.484Z'
 title: Weekend in The Mountains
 publisher: {}
 description: Toyoi Yuuta
@@ -18,7 +18,7 @@ _type: Article
 
 # Weekend in The Mountains
 
-> The bleakness I saw the night before turned out to be beautiful ordinary life that was only hidden in plain sight.
+### The bleakness I saw the night before turned out to be beautiful ordinary life that was only hidden in plain sight.
 
 I exited the building where I was bombarded with foreign words, pushed into impromptu discussions regarding the meaning behind an old lady's smile in a story I can't even remember anymore. It was a long week, and I had enough of trying my best. The moment those elevator doors opened, I forgot about whatever we were talking about that day. Today was the day I was going to travel far, and no hardworking student was going to guilt me into spending some extra hours studying. On a Friday of all days.
 
