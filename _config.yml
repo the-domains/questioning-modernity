@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.08645682884123351
 name: Questioning Modernity
 navigation:
-  - name: Contact Me
-    url: ericsantiago@question-modernity.com
-    type: external
   - name: Google
     url: www.google.com
     type: external
