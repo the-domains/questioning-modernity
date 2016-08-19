@@ -1,25 +1,26 @@
 ---
-at__type: Article
-at__context: 'http://schema.org'
-title: Things no one will tell you about grad school
-dateModified: '2016-08-19T19:51:58.397Z'
-publisher: {}
-author: []
+datePublished: '2016-08-19T19:53:43.384Z'
+sourcePath: _posts/2016-08-19-things-no-one-will-tell-you-about-grad-school.md
 inFeed: true
+author: []
+at__type: Article
+via: {}
+dateModified: '2016-08-19T19:53:42.786Z'
+title: Things no one will tell you about grad school
+publisher: {}
+at__context: 'http://schema.org'
 description: >-
   Whether you’re thinking about pursuing an advanced degree or are already a
   student yourself, you will most likely encounter two versions of the nature of
   graduate school, especially if you’re a liberal arts student.
-via: {}
-datePublished: '2016-08-19T19:52:00.468Z'
 starred: false
-sourcePath: _posts/2016-08-19-things-no-one-will-tell-you-about-grad-school.md
 _type: Blurb
 
 ---
 # **Things no one will tell you about grad school**
 
 Whether you're thinking about pursuing an advanced degree or are already a student yourself, you will most likely encounter two versions of the nature of graduate school, especially if you're a liberal arts student.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cae5b27-6110-44f1-babe-4573ab22a357.gif)
 
 The optimists will tell you that you're making a right decision because you'll become an expert on a given subject, which will broaden your horizons, and prepare you for the future. The pessimists will tell you the opposite, that it's a waste of time since it doesn't hold any intrinsic value or prepare you for the 'real world.' Neither of these views is accurate or representative of what graduate school is like and what it can provide you. A particular problem with these two views is that they tend to be considered mutually exclusive, when in reality, both of them hold some truth. Nonetheless, these two sides express terribly skewed perceptions of what knowledge, authority, and status are. The reality is that, like most things in life, you are the one who ultimately assigns a value to the education you receive.
 
