@@ -16,4 +16,7 @@ navigation:
   - name: Contact Me
     url: ericsantiago@question-modernity.com
     type: external
+  - name: Google
+    url: www.google.com
+    type: external
 title: Questioning Modernity
