@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T20:08:41.581Z'
+datePublished: '2016-08-19T20:10:52.423Z'
 sourcePath: _posts/2016-08-18-weekend-in-the-mountains.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T20:07:29.459Z'
+dateModified: '2016-08-19T20:10:51.864Z'
 title: Weekend in The Mountains
 publisher: {}
 description: Toyoi Yuuta
