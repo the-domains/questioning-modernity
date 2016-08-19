@@ -1,11 +1,13 @@
 ---
-datePublished: '2016-08-19T20:14:37.011Z'
+datePublished: '2016-08-19T20:15:09.728Z'
 sourcePath: _posts/2016-08-18-golden-gate-scenery.md
 inFeed: true
-hasPage: true
+isBasedOnUrl: >-
+  https://500px.com/photo/166478877/roaring-waves-by-eric-santiago-pe%C3%B1a?ctx_page=1&from=gallery&galleryPath=23548399&user_id=18945239
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-19T20:14:36.027Z'
+dateModified: '2016-08-19T20:15:09.157Z'
 title: Golden Gate Scenery
 publisher:
   name: 500px
@@ -19,8 +21,7 @@ description: >-
   the view and finding the sound of the waves relaxing. Check out the link in
   the tweet below for the replay.
 starred: false
-url: golden-gate-scenery/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Golden Gate Scenery
