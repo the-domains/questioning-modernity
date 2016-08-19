@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-19T19:56:17.285Z'
+datePublished: '2016-08-19T19:57:15.600Z'
 sourcePath: _posts/2016-08-19-things-no-one-will-tell-you-about-grad-school.md
 inFeed: true
+hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-19T19:56:16.749Z'
+dateModified: '2016-08-19T19:57:13.703Z'
 title: Things no one will tell you about grad school
 publisher: {}
 at__context: 'http://schema.org'
@@ -14,7 +15,8 @@ description: >-
   student yourself, you will most likely encounter two versions of the nature of
   graduate school, especially if you’re a liberal arts student.
 starred: false
-_type: Blurb
+url: things-no-one-will-tell-you-about-grad-school/index.html
+_type: Article
 
 ---
 # **Things no one will tell you about grad school**
