@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-19T20:29:18.822Z'
+datePublished: '2016-08-19T20:30:14.143Z'
 sourcePath: _posts/2016-08-18-weekend-in-the-mountains.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T20:29:18.205Z'
+dateModified: '2016-08-19T20:30:13.739Z'
 title: Weekend in The Mountains
 publisher: {}
-description: A short narrative of one of my most memorable trips in Japan.
+description: Gif Image by Toyoi Yuuta
 starred: false
 url: weekend-in-the-mountains/index.html
 _type: Article
@@ -18,9 +18,7 @@ _type: Article
 
 # Weekend in The Mountains
 
-### "The bleakness I saw the night before turned out to be beautiful ordinary life that was only hidden in plain sight."
-
-A short narrative of one of my most memorable trips in Japan.
+### "The bleakness I saw the night before turned out to be beautiful ordinary life that was only hidden in plain sight." A short narrative of one of my most memorable trips in Japan.
 
 I exited the building where I was bombarded with foreign words, pushed into impromptu discussions regarding the meaning behind an old lady's smile in a story I can't even remember anymore. It was a long week, and I had enough of trying my best. The moment those elevator doors opened, I forgot about whatever we were talking about that day. Today was the day I was going to travel far, and no hardworking student was going to guilt me into spending some extra hours studying. On a Friday of all days.
 
