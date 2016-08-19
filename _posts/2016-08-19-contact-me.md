@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-19T21:20:21.658Z'
+datePublished: '2016-08-19T21:20:37.500Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T21:18:25.692Z'
+dateModified: '2016-08-19T21:20:36.973Z'
 title: Contact me
 publisher: {}
 description: 'If you wish to contact me, reach out to me on Twitter or via email.'
-starred: false
 sourcePath: _posts/2016-08-19-contact-me.md
+starred: false
 url: contact-me/index.html
 _type: Blurb
 
