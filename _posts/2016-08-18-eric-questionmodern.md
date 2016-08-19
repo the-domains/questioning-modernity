@@ -1,12 +1,13 @@
 ---
-datePublished: '2016-08-19T20:58:12.038Z'
+datePublished: '2016-08-19T20:59:26.278Z'
 sourcePath: _posts/2016-08-18-eric-questionmodern.md
-inFeed: false
-hasPage: true
+inFeed: true
+isBasedOnUrl: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
+hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T20:58:11.414Z'
+dateModified: '2016-08-19T20:59:25.865Z'
 title: Eric @QuestionModern
 publisher:
   name: Periscope
@@ -17,7 +18,6 @@ description: >-
   Replay of the livestream I did at Marshall Beach. Relax while thinking about
   the meaning of life, the universe, and everything.
 starred: false
-url: eric-questionmodern/index.html
 _type: MediaObject
 
 ---
