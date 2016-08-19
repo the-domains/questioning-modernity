@@ -1,5 +1,3 @@
-name: Questioning Modernity
-layout_spectrum: 0.08645682884123351
 typography_spectrum: 0.39577332755476835
 color:
   brandColors:
@@ -12,3 +10,10 @@ color:
   lightness: 0.9592477016019045
   saturation: 0.6734701812351283
   rhythmicContrast: 0.872938731653428
+layout_spectrum: 0.08645682884123351
+name: Questioning Modernity
+navigation:
+  - name: Contact Me
+    url: ericsantiago@question-modernity.com
+    type: external
+title: Questioning Modernity
