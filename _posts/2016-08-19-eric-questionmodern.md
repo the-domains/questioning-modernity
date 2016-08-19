@@ -1,15 +1,13 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.periscope.tv'
-  name: Periscope
-  favicon: 'https://assets.periscope.tv/images/favicon.ico'
-  domain: www.periscope.tv
+datePublished: '2016-08-19T21:04:07.622Z'
+sourcePath: _posts/2016-08-19-eric-questionmodern.md
+isBasedOnUrl: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
 keywords: []
-description: >-
-  Relax while thinking about the meaning of life, the universe, and
-  everything...
+related: []
+author: []
+via: {}
+dateModified: '2016-08-19T21:04:07.082Z'
+title: Eric @QuestionModern
 app_links:
   - url: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
     type: ios
@@ -34,13 +32,15 @@ app_links:
     type: googleplay
     name: Periscope
     id: tv.periscope.android
-isBasedOnUrl: 'https://www.periscope.tv/w/1nAKEbRVnyAGL'
-title: Eric @QuestionModern
-datePublished: '2016-08-19T21:01:48.611Z'
-dateModified: '2016-08-19T21:00:52.892Z'
-via: {}
+publisher:
+  url: 'https://www.periscope.tv'
+  name: Periscope
+  favicon: 'https://assets.periscope.tv/images/favicon.ico'
+  domain: www.periscope.tv
+description: >-
+  Relax while thinking about the meaning of life, the universe, and
+  everything...
 starred: false
-sourcePath: _posts/2016-08-19-eric-questionmodern.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -48,4 +48,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Eric @QuestionModern</h1><p>Relax while thinking about the meaning of life, the universe, and everything...</p><img src="https://tn.periscope.tv/b6zN6rk_apyg6Y2huYC0hPA3BIX5OpbBLux4iL1rrxa3yvfbIe--39OVSabfkzOgaJx5mKjn8FwulH6-poIhPg==/chunk_1106.jpg?Expires=1785622310&amp;Signature=FBC~c2CaT3sMOU13vyndxi1~bEcbCJz~5JZEs1G~HXd-rxGw~w1qtD5k2JuE7pUOBkaghviHC7h498emKMMiR0pgbJuIXtfcg55toAPfutSCwhRr01N8CI-zMP458sIvs8bm2KpGdjcEYdfZ1l9jtRWZ621TZymxlMd7Bj~TXfazmlWMT5mSWc8rwomxuvwoMJBgtOT5LNbl3p7ofhr~DumCEdzxQpmmtTbiOKFWX~enNMoAnCIIvbuRdlu9DZuYZqs0IScs5vQfRN-0Tt0stvCJT~I6izdRJBuT-u7ibd9Vx~UWHRBu3KjXQBs4EwsDex6HfvIu2iXFOAMyM3ATkg__&amp;Key-Pair-Id=APKAIHCXHHQVRTVSFRWQ" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48a66406-19d0-40d0-9e30-65d0aedbf88a.jpg)
