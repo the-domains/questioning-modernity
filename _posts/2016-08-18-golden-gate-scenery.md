@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T20:19:40.810Z'
+datePublished: '2016-08-19T20:22:20.361Z'
 sourcePath: _posts/2016-08-18-golden-gate-scenery.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T20:19:40.367Z'
+dateModified: '2016-08-19T20:22:19.858Z'
 title: Golden Gate Scenery
 publisher:
   name: 500px
@@ -26,7 +26,7 @@ _type: Article
 
 Took these pictures in a cold San Francisco afternoon. You can check out the 500px gallery [here][0]. It was a somber day full of beauty and roaring winds. I also took the opportunity to do an impromptu livestream of the scenery. I enjoyed reading the flurry of comments from people around the globe admiring the view and finding the sound of the waves relaxing. Check out [this link][1].
 
-If you enjoyed these pictures, check out my recent [travel journal post][2] covering one of my most memorable journeys in Japan. [Link test][3]
+If you enjoyed these pictures, check out my recent [travel journal post][2] covering one of my most memorable journeys in Japan.
 ![Roaring Waves](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e320570-4273-4cb7-b9a7-32fc9d845824.jpg)
 ![Climbing to The Bridge](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e16477f6-21cf-4696-ba4b-d6d34055a1d0.jpg)
 ![Detailed Rocks](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8acd58e-f393-4bca-b57e-58d66cd11834.jpg)
@@ -35,4 +35,3 @@ If you enjoyed these pictures, check out my recent [travel journal post][2] cove
 [0]: https://500px.com/question_modernity/galleries/san-francisco
 [1]: https://www.periscope.tv/w/1nAKEbRVnyAGL "Relax while thinking about the meaning of life"
 [2]: http://thegrid.ai/questioning-modernity/weekend-in-the-mountains
-[3]: http://google.com/
