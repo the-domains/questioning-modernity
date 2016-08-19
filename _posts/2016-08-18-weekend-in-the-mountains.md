@@ -1,7 +1,7 @@
 ---
 title: Weekend in The Mountains
-datePublished: '2016-08-19T17:19:27.246Z'
-dateModified: '2016-08-19T17:19:26.995Z'
+datePublished: '2016-08-19T17:20:45.393Z'
+dateModified: '2016-08-19T17:20:44.577Z'
 publisher: {}
 author: []
 hasPage: true
