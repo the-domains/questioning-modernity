@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T20:44:43.406Z'
+datePublished: '2016-08-19T20:50:47.688Z'
 sourcePath: _posts/2016-08-17-japanese-emblems-and-modern-smartphone-apps.md
-inFeed: false
+inFeed: true
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T20:43:51.576Z'
+dateModified: '2016-08-19T20:50:47.197Z'
 title: Japanese Emblems & UI Design
 publisher: {}
 description: >-
@@ -19,7 +19,7 @@ description: >-
 inNav: false
 starred: false
 url: japanese-emblems-and-ui-design/index.html
-_type: MediaObject
+_type: Article
 
 ---
 # Japanese Emblems & UI Design
