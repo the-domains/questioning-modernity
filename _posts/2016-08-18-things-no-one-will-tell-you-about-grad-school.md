@@ -12,9 +12,9 @@ metadata:
     of graduate school, especially if you’re a liberal arts student.
   via: {}
   sourcePath: _posts/2016-08-18-things-no-one-will-tell-you-about-grad-school.md
-dateModified: '2016-08-18T17:35:12.306Z'
+dateModified: '2016-08-19T17:19:44.152Z'
 title: Things no one will tell you about grad school
-datePublished: '2016-08-19T17:18:35.914Z'
+datePublished: '2016-08-19T17:19:44.672Z'
 author: []
 sourcePath: _posts/2016-08-18-things-no-one-will-tell-you-about-grad-school.md
 description: >-
@@ -23,11 +23,10 @@ description: >-
   graduate school, especially if you’re a liberal arts student.
 publisher: {}
 via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: things-no-one-will-tell-you-about-grad-school/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6edd01fc-44ad-4c19-9721-ad0ac3f1b400.gif)
