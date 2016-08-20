@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T21:20:37.500Z'
+datePublished: '2016-08-19T21:48:33.588Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T21:20:36.973Z'
+dateModified: '2016-08-19T21:48:33.182Z'
 title: Contact me
 publisher: {}
 description: 'If you wish to contact me, reach out to me on Twitter or via email.'
