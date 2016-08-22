@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-22T20:40:03.671Z'
+datePublished: '2016-08-22T20:42:33.355Z'
 sourcePath: _posts/2016-08-22-john-plays-no-mans-sky.md
-inFeed: true
+inFeed: false
 hasPage: true
 keywords:
   - duration
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/hankgames'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T20:40:02.455Z'
+dateModified: '2016-08-22T20:42:32.710Z'
 title: What Constitutes a Good Life?
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=NzDa5AshX8Y&feature=applinks'
