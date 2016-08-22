@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T20:43:49.400Z'
+datePublished: '2016-08-22T20:46:13.734Z'
 sourcePath: _posts/2016-08-22-john-plays-no-mans-sky.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: 'https://www.youtube.com/user/hankgames'
     avatar: {}
 via: {}
-dateModified: '2016-08-22T20:43:07.439Z'
+dateModified: '2016-08-22T20:46:13.334Z'
 title: What Constitutes a Good Life?
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=NzDa5AshX8Y&feature=applinks'
@@ -69,7 +69,7 @@ description: >-
   experiences, but by now it should be common knowledge that the industry has
   produced games that are thought-provoking in so many levels, making players
   think about the human condition and ask questions they otherwise wouldn’t have
-  considered.
+  considered. Read more
 inLanguage: en
 starred: false
 url: what-constitutes-a-good-life/index.html
@@ -81,7 +81,7 @@ _type: VideoObject
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNzDa5AshX8Y%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNzDa5AshX8Y&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNzDa5AshX8Y%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-Some people tend to dismiss video games as frivolous and superficial experiences, but by now it should be common knowledge that the industry has produced games that are thought-provoking in so many levels, making players think about the human condition and ask questions they otherwise wouldn't have considered.
+Some people tend to dismiss video games as frivolous and superficial experiences, but by now it should be common knowledge that the industry has produced games that are thought-provoking in so many levels, making players think about the human condition and ask questions they otherwise wouldn't have considered. Read more
 
 [No Man's Sky][0] is one of those games, and one of my favorite Youtubers, [John Green][1], recorded himself playing the game while asking the viewers some pretty big questions: What constitutes a good and successful life? To what extent should we pursue our curiosities as individuals and as a species?
 
