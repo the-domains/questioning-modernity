@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T19:59:14.035Z'
+datePublished: '2016-08-22T18:55:06.471Z'
 sourcePath: _posts/2016-08-19-things-no-one-will-tell-you-about-grad-school.md
 inFeed: true
 hasPage: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-19T19:59:13.566Z'
+dateModified: '2016-08-22T18:55:05.918Z'
 title: Things no one will tell you about grad school
 publisher: {}
 at__context: 'http://schema.org'
@@ -37,4 +37,4 @@ Graduate school is not really about the misguided notions your teachers and coll
 We sometimes forget work and school, albeit different in nature and purpose, are still activities we do to achieve a better future and attain a sense of fulfillment. To better understand what the ideal way we should approach work, I recommend the book _**[How to Find Fulfilling Work][1]**_**by Roman Krznaric**. It provides real insight as to what we should really keep in mind when making life changing decisions regarding our work life.
 
 [0]: http://t.umblr.com/redirect?z=http%3A%2F%2Fphdcomics.com%2Fcomics%2Farchive.php%3Fcomicid%3D1877&t=ZDFjNDkwYzA1ODhmZWZlY2QxM2RlZmY1M2I3N2ZjZTFkYWEwNDU3MCx3dTEzejNQTA%3D%3D
-[1]: http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1447202287%2Fref%3Das_li_tl%3Fie%3DUTF8%26camp%3D1789%26creative%3D9325%26creativeASIN%3D1447202287%26linkCode%3Das2%26tag%3Dericsantiagop-20%26linkId%3D3560fc8ef96499658d1f66f73491a6b0&t=YzVjNTYyZmQ1ZTgxMzFkODM5OTcyMzFjOTBlN2ExZGM4YmJmMzIxNCx3dTEzejNQTA%3D%3D
+[1]: https://www.amazon.com/gp/product/1447202287/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1447202287&linkCode=as2&tag=questionmoder-20&linkId=63acd1c1931a55102bd71dc1ad2b1e66
