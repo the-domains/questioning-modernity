@@ -1,20 +1,14 @@
 ---
 keywords: []
 title: Japanese Emblems & UI Design
-datePublished: '2016-08-19T20:52:46.442Z'
-dateModified: '2016-08-19T20:52:35.538Z'
+datePublished: '2016-08-23T06:55:50.555Z'
+dateModified: '2016-08-23T06:55:43.467Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 inNav: false
-description: >-
-  Some of the interesting things you tend to notice while living in Japan is the
-  predominance of monshou (紋章) everywhere around you, whether it’s in art,
-  media, architecture, and even everyday objects. It could be an advertisement
-  in a train station or the cover of a book you’re flipping through, the
-  predominance of iconic family seals is a treat for people who enjoy artistic
-  flair in their everyday routine.
+description: ' of the interesting things you tend to notice while living in Japan is the predominance of monshou (紋章) everywhere around you, whether it’s in art, media, architecture, and even everyday objects. It could be an advertisement in a train station or the cover of a book you’re flipping through, the predominance of iconic family seals is a treat for people who enjoy artistic flair in their everyday routine.'
 via: {}
 starred: true
 sourcePath: _posts/2016-08-17-japanese-emblems-and-modern-smartphone-apps.md
@@ -25,7 +19,7 @@ _type: Article
 # Japanese Emblems & UI Design
 ![Professional monshou (family crest) designer](https://the-grid-user-content.s3-us-west-2.amazonaws.com/599b43c5-6c7c-450b-b629-c62eb03a5ef6.gif)
 
-Some of the interesting things you tend to notice while living in Japan is the predominance of monshou (紋章) everywhere around you, whether it's in art, media, architecture, and even everyday objects. It could be an advertisement in a train station or the cover of a book you're flipping through, the predominance of iconic family seals is a treat for people who enjoy artistic flair in their everyday routine.
+of the interesting things you tend to notice while living in Japan is the predominance of monshou (紋章) everywhere around you, whether it's in art, media, architecture, and even everyday objects. It could be an advertisement in a train station or the cover of a book you're flipping through, the predominance of iconic family seals is a treat for people who enjoy artistic flair in their everyday routine.
 ![Crane crest](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a4f1a01-bfc6-48ba-bbeb-07feaeef5214.png)
 
 As a fan of embellished and ornate mundane objects, I particularly like this aspect of Japanese aesthetics. On a more practical level, monshou, and more specifically, kamon (家紋) have a particular advantage due to the conventions surrounding their format and applications. Similar to the Western coat of arms, monshou in Japan have traditionally been used to represent a family or clan. Nowadays, they are also used to identify a company, an organization, and sometimes, even an individual. Part of what makes them so iconic is that most of them follow a specific design language. They tend to be circular in design, monochromatic and must be designed for maintaining fidelity when scaled down.
