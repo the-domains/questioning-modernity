@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: Japanese Emblems & UI Design
-datePublished: '2016-08-23T06:56:39.564Z'
-dateModified: '2016-08-23T06:55:55.952Z'
+datePublished: '2016-08-25T19:16:32.981Z'
+dateModified: '2016-08-25T19:16:31.956Z'
 publisher: {}
 author: []
 inFeed: true
@@ -16,8 +16,8 @@ description: >-
   predominance of iconic family seals is a treat for people who enjoy artistic
   flair in their everyday routine.
 via: {}
-starred: true
 sourcePath: _posts/2016-08-17-japanese-emblems-and-modern-smartphone-apps.md
+starred: false
 url: japanese-emblems-and-ui-design/index.html
 _type: Article
 
