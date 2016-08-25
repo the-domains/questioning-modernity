@@ -4,15 +4,15 @@ description: >-
   academics in the US is the nagging feeling that one’s English is never good
   enough when writing papers or giving out presentations. How can you survive
   grad school when English isn’t your native tongue?
-dateModified: '2016-08-25T19:15:54.651Z'
-datePublished: '2016-08-25T19:16:43.539Z'
+dateModified: '2016-08-25T19:17:10.968Z'
+datePublished: '2016-08-25T19:17:11.835Z'
 title: Surviving grad school when English isn’t your first language
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
