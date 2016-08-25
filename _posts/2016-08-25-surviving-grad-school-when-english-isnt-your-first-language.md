@@ -1,22 +1,22 @@
 ---
+datePublished: '2016-08-25T19:21:53.734Z'
+sourcePath: >-
+  _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-25T19:21:52.693Z'
+title: Surviving grad school when English isn’t your first language
+publisher: {}
 description: >-
   One of the biggest challenges that overseas students face when endeavoring
   academics in the US is the nagging feeling that one’s English is never good
   enough when writing papers or giving out presentations. How can you survive
   grad school when English isn’t your native tongue?
-dateModified: '2016-08-25T19:17:10.968Z'
-datePublished: '2016-08-25T19:17:11.835Z'
-title: Surviving grad school when English isn’t your first language
-author: []
-publisher: {}
-via: {}
-sourcePath: >-
-  _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: surviving-grad-school-when-english-isnt-your-first-language/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e16925b7-d2f7-4d93-8ac3-43ca041a2fe8.gif)
@@ -31,7 +31,7 @@ In the United States, the number of foreign students in graduate school has gone
 
 > The biggest mistake academic institutions and their instructors make is force a single standard as a golden rule of excellence. This is a false goal that will only lead to frustration for both instructors and students alike.
 
-It's hard to establish a clear standard of proficiency when the reality is that foreign students come from a wide variety of socioeconomic and cultural backgrounds. This is already a problem domestically in the United States, particularly in the case of students that come from low-income backgrounds or are the first in their family to go to college. There have been some eye-opening articles treating this subject, and I've seen firsthand how these struggles affect self-esteem and performance of smart, hardworking individuals.
+It's hard to establish a clear standard of proficiency when the reality is that foreign students come from a wide variety of socioeconomic and cultural backgrounds. This is already a problem domestically in the United States, particularly in the case of students that come from low-income backgrounds or are the first in their family to go to college. There have been some [eye-opening articles][0] treating this subject, and I've seen firsthand how these struggles affect self-esteem and performance of smart, hardworking individuals.
 
 The biggest mistake academic institutions and their instructors make is force a single standard as a golden rule of excellence. This is a false goal that will only lead to frustration for both instructors and students alike. It creates the false assumption that failing to reach the standard means failure down the line. Instead, professors could learn a lot from foreign language teachers: they correct mistakes, but reassure the students that it's good to make mistakes. Their philosophy is that it's preferable to make mistakes because you're bound to make them anyway. If anything, it's good that you've done them in front of them so they can catch it! Language teachers rarely treat failure on a single essay or test as an inability to pass a course, much less as a sign that the student is incapable of completing a degree. Although these instructors constantly correct their students, they also attempt to understand why the students make such mistakes. They adapt their teaching to match those common blunders by looking for patterns. Nonetheless, although institutions keep becoming more diverse, they still lag behind when it comes to changing the teaching philosophy to one that embraces the variety found in present-day college campuses in the US.
 
@@ -84,3 +84,8 @@ Finally, it's surprising how often the instructor or student is basing their jud
 ## Healthy Skepticism Is Your Friend
 
 This is not to say you won't have professors painting your paper red even after several attempts at engaging their comments. The reality is some teachers have either strict standards and/or firmly believe there are very few ways to do things correctly. In the end, it's all about keeping a healthy level of skepticism. Do what you must, within reason, to succeed in your courses. Listen to criticism, but in the back of your head, keep reminding yourself that everyone makes mistakes, and your critics are no exception.
+
+Want to know more about what graduate school is like? Check out my previous post: [Things No One Will Tell You About Grad School][1].
+
+[0]: http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html?_r=0
+[1]: http://question-modernity.com/things-no-one-will-tell-you-about-grad-school/
