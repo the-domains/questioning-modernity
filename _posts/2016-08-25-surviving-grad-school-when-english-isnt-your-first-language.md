@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-25T19:23:30.183Z'
+datePublished: '2016-08-25T19:24:20.418Z'
 sourcePath: >-
   _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T19:23:29.544Z'
+dateModified: '2016-08-25T19:24:19.715Z'
 title: Surviving grad school when English isn’t your first language
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
   grad school when English isn’t your native tongue?
 starred: true
 url: surviving-grad-school-when-english-isnt-your-first-language/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e16925b7-d2f7-4d93-8ac3-43ca041a2fe8.gif)
