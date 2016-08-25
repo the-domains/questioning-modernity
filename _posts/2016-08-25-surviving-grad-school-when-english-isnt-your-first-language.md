@@ -1,20 +1,20 @@
 ---
-datePublished: '2016-08-25T19:26:36.006Z'
-sourcePath: >-
-  _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
+title: Surviving grad school when English isn’t your first language
+datePublished: '2016-08-25T19:29:31.210Z'
+dateModified: '2016-08-25T19:29:29.583Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-25T19:26:35.147Z'
-title: Surviving grad school when English isn’t your first language
-publisher: {}
 description: >-
   One of the biggest challenges that overseas students face when endeavoring
   academics in the US is the nagging feeling that one’s English is never good
   enough when writing papers or giving out presentations. How can you survive
   grad school when English isn’t your native tongue?
+via: {}
 starred: true
+sourcePath: >-
+  _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
 url: surviving-grad-school-when-english-isnt-your-first-language/index.html
 _type: Article
 
@@ -29,7 +29,7 @@ In the United States, the number of foreign students in graduate school has gone
 
 ## A Single Standard for a Diverse Group of People
 
-### The biggest mistake academic institutions and their instructors make is force a single standard as a golden rule of excellence. This is a false goal that will only lead to frustration for both instructors and students alike.
+### "The biggest mistake academic institutions and their instructors make is force a single standard as a golden rule of excellence. This is a false goal that will only lead to frustration for both instructors and students alike."
 
 It's hard to establish a clear standard of proficiency when the reality is that foreign students come from a wide variety of socioeconomic and cultural backgrounds. This is already a problem domestically in the United States, particularly in the case of students that come from low-income backgrounds or are the first in their family to go to college. There have been some [eye-opening articles][0] treating this subject, and I've seen firsthand how these struggles affect self-esteem and performance of smart, hardworking individuals.
 
@@ -47,7 +47,7 @@ You might be surprised to learn that your fellow Anglophone classmates also make
 
 ## Mistakes aren't inherently "wrong"
 
-> There is a growing awareness that language evolves, it does not belong to one nation or individual, we create it as a group.
+### "There is a growing awareness that language evolves, it does not belong to one nation or individual, we create it as a group."
 
 The challenge with academia is that it's a very formal and serious endeavor that praises good writing and argumentation. This does not mean, though, that mistakes are inherently wrong, they can sometimes lead to new forms of expression. There is a growing awareness that language evolves, it does not belong to one nation or individual, we create it as a group. There are many linguistic innovations non-native speakers bring to a foreign language, and you'd be surprised to know how many of these stick, even though they're technically incorrect or "unnatural." Languages can become enriched by non-native speakers, and it should be accepted as a natural occurrence instead of being a reason to be scolded. The best attitude is to be fascinated by this phenomenon, laugh it off, and "correct" it so you make sure most people understand you in the future. There have been times where my friends have called me on my weird expressions (there's probably a few in this post), but they've been really cool about it and are usually fascinated by the logic behind what I'm saying. They can't help but feel like they've seen their native tongue in a whole new light.
 
@@ -71,7 +71,7 @@ When you engage the person, you have a better idea of what was their thought pro
 
 You can also learn a lot about the intentions of your criticizer. If the person means well, you'll be able to see that and learn from what they have to say. You'll become less scared of listening to criticism, and you'll reinforce the idea that it's okay to make mistakes.
 
-> It's particularly useful to engage the person in these situations because it will empower you and make you seem sharp and analytical.
+### "It's particularly useful to engage the person in these situations because it will empower you and make you seem sharp and analytical."
 
 If the person doesn't mean well or appears to believe in a tough love approach, this will also come across. It's particularly useful to engage the person in these situations because it will empower you and make you seem sharp and analytical. Particularly intense criticism will become less intimidating if you ask questions because the critic will have to verbalize their critique clearly and in a well-thought manner. This is essential because it forces the reviewer to be careful about what he or she is saying. Moreover, be particularly doubtful of language that makes allusions to all or nothing scenarios -- these tend to be red flags of nitpicking and overcorrection and are in contradiction to what learning should be, a process.
 
