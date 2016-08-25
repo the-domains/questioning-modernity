@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-25T19:24:20.418Z'
+datePublished: '2016-08-25T19:26:36.006Z'
 sourcePath: >-
   _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T19:24:19.715Z'
+dateModified: '2016-08-25T19:26:35.147Z'
 title: Surviving grad school when English isn’t your first language
 publisher: {}
 description: >-
@@ -29,7 +29,7 @@ In the United States, the number of foreign students in graduate school has gone
 
 ## A Single Standard for a Diverse Group of People
 
-> The biggest mistake academic institutions and their instructors make is force a single standard as a golden rule of excellence. This is a false goal that will only lead to frustration for both instructors and students alike.
+### The biggest mistake academic institutions and their instructors make is force a single standard as a golden rule of excellence. This is a false goal that will only lead to frustration for both instructors and students alike.
 
 It's hard to establish a clear standard of proficiency when the reality is that foreign students come from a wide variety of socioeconomic and cultural backgrounds. This is already a problem domestically in the United States, particularly in the case of students that come from low-income backgrounds or are the first in their family to go to college. There have been some [eye-opening articles][0] treating this subject, and I've seen firsthand how these struggles affect self-esteem and performance of smart, hardworking individuals.
 
