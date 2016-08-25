@@ -1,7 +1,7 @@
 ---
 title: Surviving grad school when English isn’t your first language
-datePublished: '2016-08-25T19:31:33.015Z'
-dateModified: '2016-08-25T19:31:31.667Z'
+datePublished: '2016-08-25T19:33:04.112Z'
+dateModified: '2016-08-25T19:33:00.542Z'
 publisher: {}
 author: []
 inFeed: true
@@ -25,7 +25,7 @@ _type: Article
 
 > One of the biggest challenges that overseas students face when endeavoring academics in the US is the nagging feeling that one's English is never good enough when writing papers or giving out presentations. How can you survive grad school when English isn't your native tongue?
 
-In the United States, the number of foreign students in graduate school has gone up and will probably continue to do so as time goes by. One of the biggest challenges that overseas students face when endeavoring academics in the US is the nagging feeling that their English is never good enough when writing papers or giving out presentations. This is particularly the case for students in non-technical fields, where the language of math and science can't aid you in getting your message across, and a greater weight is given to sharp writing.
+In the United States, the number of foreign students in graduate school has gone up and will probably continue to do so as time goes by. This is particularly the case for students in non-technical fields, where the language of math and science can't aid you in getting your message across, and a greater weight is given to sharp writing.
 
 ## A Single Standard for a Diverse Group of People
 
