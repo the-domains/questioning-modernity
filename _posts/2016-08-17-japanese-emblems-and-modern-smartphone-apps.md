@@ -1,13 +1,14 @@
 ---
-keywords: []
-title: Japanese Emblems & UI Design
-datePublished: '2016-08-25T19:16:32.981Z'
-dateModified: '2016-08-25T19:16:31.956Z'
-publisher: {}
-author: []
+datePublished: '2016-08-25T19:16:38.520Z'
+sourcePath: _posts/2016-08-17-japanese-emblems-and-modern-smartphone-apps.md
 inFeed: true
 hasPage: true
-inNav: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-25T19:16:37.670Z'
+title: Japanese Emblems & UI Design
+publisher: {}
 description: >-
   One of the interesting things you tend to notice while living in Japan is the
   predominance of monshou (紋章) everywhere around you, whether it’s in art,
@@ -15,8 +16,7 @@ description: >-
   in a train station or the cover of a book you’re flipping through, the
   predominance of iconic family seals is a treat for people who enjoy artistic
   flair in their everyday routine.
-via: {}
-sourcePath: _posts/2016-08-17-japanese-emblems-and-modern-smartphone-apps.md
+inNav: false
 starred: false
 url: japanese-emblems-and-ui-design/index.html
 _type: Article
