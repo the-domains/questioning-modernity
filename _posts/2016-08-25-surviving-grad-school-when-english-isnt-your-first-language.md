@@ -1,7 +1,7 @@
 ---
 title: Surviving grad school when English isn’t your first language
-datePublished: '2016-08-25T22:07:32.236Z'
-dateModified: '2016-08-25T22:06:15.928Z'
+datePublished: '2016-08-25T22:14:33.554Z'
+dateModified: '2016-08-25T22:14:22.394Z'
 publisher: {}
 author: []
 inFeed: true
@@ -27,7 +27,7 @@ _type: Article
 
 In the United States, the number of foreign students in graduate school has gone up and will probably continue to do so as time goes by. Overseas students face double the challenge of polishing their language skills as well as reading and writing immense amounts of material. This is particularly the case for students in non-technical fields, where the language of math and science can't aid you in getting your message across, and a greater weight is given to sharp writing.
 
-## A Single Standard for a Diverse Group of People
+## A single standard for a diverse group of people
 
 ### "The biggest mistake academic institutions and their instructors make is force a single standard as a golden rule of excellence. This is a false goal that will only lead to frustration for both instructors and students alike."
 
@@ -51,19 +51,19 @@ You might be surprised to learn that your fellow Anglophone classmates also make
 
 The challenge with academia is that it's a very formal and serious endeavor that praises good writing and argumentation. This does not mean, though, that mistakes are inherently wrong, they can sometimes lead to new forms of expression. There is a growing awareness that language evolves, it does not belong to one nation or individual, we create it as a group. There are many linguistic innovations non-native speakers bring to a foreign language, and you'd be surprised to know how many of these stick, even though they're technically incorrect or "unnatural." Languages can become enriched by non-native speakers, and it should be accepted as a natural occurrence instead of being a reason to be scolded. The best attitude is to be fascinated by this phenomenon, laugh it off, and "correct" it so you make sure most people understand you in the future. There have been times where my friends have called me on my weird expressions (there's probably a few in this post), but they've been really cool about it and are usually fascinated by the logic behind what I'm saying. They can't help but feel like they've seen their native tongue in a whole new light.
 
-## Google Is Your Friend
+## Google is your friend
 
 Google. Yes, google the word or phrase you're having doubts with. The hardest part about writing in a foreign language is making sure your sentences aren't just grammatically correct but sound natural and organic. For this purpose, Google can be a great tool. I recommend you put the expression in quotes, which will tell the search engine to look for exact matches. This will help you immensely since you'll be able to catch odd word order and simple mistakes that make your writing harder to read. Keep in mind, though, not all search results are created equal, and a result from a news organization is more reliable than an angry YouTube comment.
 
-## Read More
+## Read more
 
 Read as much as you can about the subject you're writing about and try to mimic writing styles. Perfecting a language is all a game of imitation that you slowly become good at. This is probably one of the advantages of being bombarded by lots of theory related reading materials. After imitating these sources for a while, you'll slowly become more comfortable with your writing, and your mistakes will begin to decrease.
 
-## Writing Centers Help
+## Writing centers help
 
 I was a bit skeptical at first about how useful a writing center could be, but I then realized that I was actually afraid to expose myself to more criticism. If there's one thing I can assure you, it's that the people working in writing centers tend to be the kindest most helpful folks out there, and are actually better at evaluating arguments and structure in a more productive manner than most professors. When you receive overwhelmingly negative feedback, writing centers serve as a second opinion and help you organize the mess of red ink.
 
-## Engage Criticism
+## Engage criticism
 
 When criticized, engage the person making the critique! I cannot stress enough how important this is. One obvious benefit is that you'll be able to better understand the mistake you made and learn how to avoid it in the future. This is what we're usually told time and time again, but it rarely makes us feel better. This is because it's a summary that leaves out the complexities of giving and receiving criticism.
 
@@ -81,7 +81,7 @@ This means that you can still learn something from harsh critiques. It's a matte
 
 Finally, it's surprising how often the instructor or student is basing their judgment on a misunderstanding. I would go so far as to say that a high number of "mistakes" turn up to be for the most part misunderstandings that can be resolved by talking, requiring only some minor corrections instead of full rewrites.
 
-## Healthy Skepticism Is Your Friend
+## Healthy skepticism is your friend
 
 This is not to say you won't have professors painting your paper red even after several attempts at engaging their comments. The reality is some teachers have either strict standards and/or firmly believe there are very few ways to do things correctly. In the end, it's all about keeping a healthy level of skepticism. Do what you must, within reason, to succeed in your courses. Listen to criticism, but in the back of your head, keep reminding yourself that everyone makes mistakes, and your critics are no exception.
 
