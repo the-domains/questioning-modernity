@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-27T23:17:23.045Z'
+datePublished: '2016-08-27T23:18:46.452Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T23:16:29.180Z'
+dateModified: '2016-08-27T23:18:46.033Z'
 title: Advice for Students
 publisher: {}
 description: Posts focusing on advice regarding the confusing world of higher education
-starred: false
 sourcePath: _posts/2016-08-27-advice-for-students.md
+starred: false
 url: advice-for-students/index.html
 _type: Blurb
 
