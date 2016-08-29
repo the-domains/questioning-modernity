@@ -21,14 +21,14 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/720aeb86-2adc-4756-819d-60231570c229.jpg
 name: Questioning Modernity
 navigation:
+  - name: Advice for Students
+    id: 55af0d3a-c117-4757-9657-59ca8e20c089
+    type: content
   - name: Twitter
     url: 'https://twitter.com/QuestionModern'
     type: external
   - name: Contact me
     id: 894d7d24-7a5b-45ea-966d-03fa48cf96c2
-    type: content
-  - name: Advice for Students
-    id: 55af0d3a-c117-4757-9657-59ca8e20c089
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/772659af-9904-4710-a4d9-0c432452876a.jpg
