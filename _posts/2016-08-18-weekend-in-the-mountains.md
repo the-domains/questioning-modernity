@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-19T20:30:14.143Z'
+datePublished: '2016-08-27T23:18:34.196Z'
 sourcePath: _posts/2016-08-18-weekend-in-the-mountains.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T20:30:13.739Z'
-title: Weekend in The Mountains
+dateModified: '2016-08-27T23:18:33.326Z'
+title: Weekend in the Mountains
 publisher: {}
 description: Gif Image by Toyoi Yuuta
 starred: false
@@ -16,7 +16,7 @@ _type: Article
 ---
 ![Gif Image by Toyoi Yuuta](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b0a5f13-e8b4-422f-8f89-53f285c8f9d4.gif)
 
-# Weekend in The Mountains
+# Weekend in the Mountains
 
 ### "The bleakness I saw the night before turned out to be beautiful ordinary life that was only hidden in plain sight." A short narrative of one of my most memorable trips in Japan.
 
