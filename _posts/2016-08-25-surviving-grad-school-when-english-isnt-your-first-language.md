@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-01T20:59:10.794Z'
+datePublished: '2016-09-01T20:59:13.125Z'
 sourcePath: >-
   _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T20:59:09.980Z'
+dateModified: '2016-09-01T20:59:12.627Z'
 title: Surviving Grad School When English Isn’t Your First Language
 publisher: {}
 description: >-
