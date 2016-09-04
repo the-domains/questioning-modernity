@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-27T23:17:49.114Z'
+datePublished: '2016-09-01T20:59:10.794Z'
 sourcePath: >-
   _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-27T23:17:48.580Z'
+dateModified: '2016-09-01T20:59:09.980Z'
 title: Surviving Grad School When English Isn’t Your First Language
 publisher: {}
 description: >-
@@ -14,7 +14,7 @@ description: >-
   academics in the US is the nagging feeling that one’s English is never good
   enough when writing papers or giving out presentations. How can you survive
   grad school when English isn’t your native tongue?
-starred: true
+starred: false
 url: surviving-grad-school-when-english-isnt-your-first-language/index.html
 _type: Article
 
