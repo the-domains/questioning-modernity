@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-01T20:58:27.566Z'
+datePublished: '2016-09-01T20:59:21.041Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T20:57:54.713Z'
+dateModified: '2016-09-01T20:59:19.929Z'
 title: 'What learning a language does to your brain: multiple selves'
 publisher: {}
 description: >-
@@ -13,9 +13,9 @@ description: >-
   language and identity may not solely be connected to nationalism or cultural
   preservation. It can shape how the individual experiences and expresses
   thoughts and feelings that aren’t abundant in their native language.
-starred: false
 sourcePath: >-
   _posts/2016-09-01-what-learning-a-language-does-to-your-brain-multiple-selves.md
+starred: true
 _type: Blurb
 
 ---
