@@ -1,14 +1,11 @@
 ---
-datePublished: '2016-09-01T22:06:08.983Z'
-sourcePath: >-
-  _posts/2016-09-01-what-learning-a-language-does-to-your-brain-multiple-selves.md
+title: 'What Learning a Language Does to Your Brain: Multiple Selves'
+datePublished: '2016-09-02T01:53:34.549Z'
+dateModified: '2016-09-02T01:53:28.853Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
-author: []
-via: {}
-dateModified: '2016-09-01T22:06:00.578Z'
-title: 'What Learning a Language Does to Your Brain: Multiple Selves'
-publisher: {}
 description: >-
   Most of us are aware that language can serve as a powerful force for forming
   an identity on a national or regional scale, but in an increasingly connected
@@ -16,7 +13,10 @@ description: >-
   language and identity may not solely be connected to nationalism or cultural
   preservation. It can shape how the individual experiences and expresses
   thoughts and feelings that aren’t abundant in their native language.
+via: {}
 starred: true
+sourcePath: >-
+  _posts/2016-09-01-what-learning-a-language-does-to-your-brain-multiple-selves.md
 url: what-learning-a-language-does-to-your-brain-multiple-selves/index.html
 _type: Article
 
