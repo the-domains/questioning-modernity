@@ -1,20 +1,16 @@
 ---
-datePublished: '2016-09-01T20:59:13.125Z'
-sourcePath: >-
-  _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
+title: Surviving Grad School When English Isn’t Your First Language
+datePublished: '2016-09-02T02:51:33.760Z'
+dateModified: '2016-09-02T02:51:32.020Z'
+publisher: {}
+author: []
 inFeed: true
 hasPage: true
-author: []
+description: ''
 via: {}
-dateModified: '2016-09-01T20:59:12.627Z'
-title: Surviving Grad School When English Isn’t Your First Language
-publisher: {}
-description: >-
-  One of the biggest challenges that overseas students face when endeavoring
-  academics in the US is the nagging feeling that one’s English is never good
-  enough when writing papers or giving out presentations. How can you survive
-  grad school when English isn’t your native tongue?
 starred: false
+sourcePath: >-
+  _posts/2016-08-25-surviving-grad-school-when-english-isnt-your-first-language.md
 url: surviving-grad-school-when-english-isnt-your-first-language/index.html
 _type: Article
 
@@ -23,7 +19,7 @@ _type: Article
 
 # Surviving Grad School When English Isn't Your First Language
 
-> One of the biggest challenges that overseas students face when endeavoring academics in the US is the nagging feeling that one's English is never good enough when writing papers or giving out presentations. How can you survive grad school when English isn't your native tongue?
+### One of the biggest challenges that overseas students face when endeavoring academics in the US is the nagging feeling that one's English is never good enough when writing papers or giving out presentations. How can you survive grad school when English isn't your native tongue?
 
 In the United States, the number of foreign students in graduate school has gone up and will probably continue to do so as time goes by. Overseas students face double the challenge of polishing their language skills as well as reading and writing immense amounts of material. This is particularly the case for students in non-technical fields, where the language of math and science can't aid you in getting your message across, and a greater weight is given to sharp writing.
 
