@@ -1,7 +1,7 @@
 ---
 title: 'What Learning a Language Does to Your Brain: Multiple Selves'
-datePublished: '2016-09-02T01:53:34.549Z'
-dateModified: '2016-09-02T01:53:28.853Z'
+datePublished: '2016-09-02T02:46:46.426Z'
+dateModified: '2016-09-02T02:46:44.661Z'
 publisher: {}
 author: []
 inFeed: true
@@ -56,5 +56,6 @@ Next time, ask yourself this: is your ego in Swahili or Chinese different? Is it
 This isn't to say that learning a foreign language is the only way to achieve this, people listen to pop songs and arias even if they don't understand the lyrics, they read stories of faraway lands and the hardships of individuals less fortunate than themselves. Art, literature, music, film, and media are powerful tools that permit us to explore thoughts and desires we wouldn't otherwise experience in our daily life, whether it's through rhythm, voice or storytelling.
 
 So go ahead and tap into something foreign. Whether it's another language or a book whose character differs from you in nationality or gender. Through this, you'll foster the growth of multiple selves, making you more human than ever before. If you feel uncomfortable every time you attempt to do this, consider asking yourself what you are frightened of when trying to have a little part of the other grow within you.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1d3a2b-3f4c-4243-a831-eaeeb847b206.gif)
 
 [0]: http://question-modernity.com/surviving-grad-school-when-english-isnt-your-first-language/
