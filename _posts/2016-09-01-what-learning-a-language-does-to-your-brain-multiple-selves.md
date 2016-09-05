@@ -1,18 +1,12 @@
 ---
 title: 'What Learning a Language Does to Your Brain: Multiple Selves'
-datePublished: '2016-09-02T02:46:46.426Z'
-dateModified: '2016-09-02T02:46:44.661Z'
+datePublished: '2016-09-02T02:51:10.233Z'
+dateModified: '2016-09-02T02:51:07.475Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: >-
-  Most of us are aware that language can serve as a powerful force for forming
-  an identity on a national or regional scale, but in an increasingly connected
-  world where the idea of global citizenship has slowly become more familiar,
-  language and identity may not solely be connected to nationalism or cultural
-  preservation. It can shape how the individual experiences and expresses
-  thoughts and feelings that aren’t abundant in their native language.
+description: ''
 via: {}
 starred: true
 sourcePath: >-
@@ -25,7 +19,7 @@ _type: Article
 
 # What Learning a Language Does to Your Brain: Multiple Selves
 
-Most of us are aware that language can serve as a powerful force for forming an identity on a national or regional scale, but in an increasingly connected world where the idea of global citizenship has slowly become more familiar, language and identity may not solely be connected to nationalism or cultural preservation. It can shape how the individual experiences and expresses thoughts and feelings that aren't abundant in their native language.
+### Most of us are aware that language can serve as a powerful force for forming an identity on a national or regional scale, but in an increasingly connected world where the idea of global citizenship has slowly become more familiar, language and identity may not solely be connected to nationalism or cultural preservation. It can shape how the individual experiences and expresses thoughts and feelings that aren't abundant in their native language.
 
 In my [previous post][0], I compared learning a foreign language to a game of imitation. Language learning as imitation is something I first heard during one of my summers at Middlebury College's language schools. The school would bring guest speakers for seminars specializing in Japanese culture and language acquisition. In the summer of 2011, the speaker that was invited for a talk was professor Yukiko Hatasa, a researcher in the field of second language acquisition, focusing on how foreigners learn Japanese as a second language. What struck me the most about her talk was how she suggested that learning a language is not only a game of imitation but a process of identity formation.
 
